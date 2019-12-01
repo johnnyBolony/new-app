@@ -1,0 +1,51 @@
+.Item{
+    
+    color:black;
+    background-color: rgba(6, 247, 66, 0.623);
+    border: 1px solid rgb(8, 248, 68);
+    border-radius: 5px;
+    width: 80%;
+    height: 25px;
+    margin: 25px auto;
+    padding: 0;
+    float: center;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: x-large;
+    transition: 0.1s;
+
+
+
+
+}
+
+/* .Item:hover{
+    color:black;
+    background-color: rgba(6, 247, 66, 0.623);
+    border: 1px solid rgb(8, 248, 68);
+    border-radius: 5px;
+    height: 40px;
+    font-size: xx-large;
+    margin: 5px auto;
+    float: center;
+    font-family: 'Chakra Petch', sans-serif;
+
+} */
+
+.Done{
+    color:green;
+
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    height: 25px;
+    margin: 5px auto;
+    float: center;
+}
+
+.btnContainer{
+    float: right;
+    
+}
+
+.btn{
+    padding: 5px;
+}
